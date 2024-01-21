@@ -10,4 +10,4 @@ ui:
   - stash-realbooru.css
   csp:
     connect-src:
-    - "https://hysts-deepdanbooru.hf.space"
+    - "https://cc1234-deepdanbooru.hf.space"
